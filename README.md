@@ -3,4 +3,4 @@ Repositório destinado a colocar o site de um dos meus projetos realizados na es
 
 Ele foi feito com o intuito de conscientizar as pessoas e fazerem elas conhecerem mulheres marginalizadas que tiveram grandes feitos.
 
-Foi feito um site utilizando php, html, javascript e css
+Foi feito um site utilizando php, html, javascript e css.
